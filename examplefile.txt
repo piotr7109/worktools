@@ -1,0 +1,4 @@
+http://plugins.jetbrains.com/files/8057/24998/vuejs-plugin.jar
+http://plugins.jetbrains.com/files/9269/32209/aem-intellij-plugin.zip
+http://plugins.jetbrains.com/files/9397/32162/aemtools.zip
+http://plugins.jetbrains.com/files/8639/28630/IntelliJ-Shortcuts-For-AEM.jar
